@@ -1,17 +1,19 @@
 <Project Sdk="Microsoft.NET.Sdk">
 
-  <PropertyGroup>
-	<TargetFrameworks>net10.0;netstandard2.0</TargetFrameworks>
-    <ImplicitUsings>enable</ImplicitUsings>
+	<PropertyGroup>
+		<TargetFrameworks>net10.0;netstandard2.0</TargetFrameworks>
 
-    <PackageId>AminTools</PackageId>
-    <Version>1.0.1</Version>
-    <Authors>MintyBueno</Authors>
-    <Description>Useful tools and helpers.</Description>
+		<LangVersion>10.0</LangVersion>
+		<ImplicitUsings>enable</ImplicitUsings>
+		<Nullable>enable</Nullable>
 
-    <RepositoryUrl>https://github.com/MintyBueno/AminTools</RepositoryUrl>
-    <RepositoryType>git</RepositoryType>
-  
-</PropertyGroup>
+		<PackageId>AminTools</PackageId>
+		<Version>1.0.1</Version>
+		<Authors>MintyBueno</Authors>
+		<Description>Useful tools and helpers.</Description>
+
+		<RepositoryUrl>https://github.com/MintyBueno/AminTools</RepositoryUrl>
+		<RepositoryType>git</RepositoryType>
+	</PropertyGroup>
 
 </Project>
