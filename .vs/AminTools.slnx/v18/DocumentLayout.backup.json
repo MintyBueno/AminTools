@@ -1,0 +1,58 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "I:\\SAS\\Austesten\\AminTools\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{71AC9B8A-0624-11C6-22A2-DDE3E05351DF}|AminTools.csproj|i:\\sas\\austesten\\amintools\\hilfetext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{71AC9B8A-0624-11C6-22A2-DDE3E05351DF}|AminTools.csproj|solutionrelative:hilfetext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{71AC9B8A-0624-11C6-22A2-DDE3E05351DF}|AminTools.csproj|i:\\sas\\austesten\\amintools\\hilfemathe.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{71AC9B8A-0624-11C6-22A2-DDE3E05351DF}|AminTools.csproj|solutionrelative:hilfemathe.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "HilfeText.cs",
+              "DocumentMoniker": "I:\\SAS\\Austesten\\AminTools\\HilfeText.cs",
+              "RelativeDocumentMoniker": "HilfeText.cs",
+              "ToolTip": "I:\\SAS\\Austesten\\AminTools\\HilfeText.cs",
+              "RelativeToolTip": "HilfeText.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAAAuAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-10-02T07:41:27.293Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "HilfeMathe.cs",
+              "DocumentMoniker": "I:\\SAS\\Austesten\\AminTools\\HilfeMathe.cs",
+              "RelativeDocumentMoniker": "HilfeMathe.cs",
+              "ToolTip": "I:\\SAS\\Austesten\\AminTools\\HilfeMathe.cs",
+              "RelativeToolTip": "HilfeMathe.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-10-02T07:41:25.676Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{cce594b6-0c39-4442-ba28-10c64ac7e89f}"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

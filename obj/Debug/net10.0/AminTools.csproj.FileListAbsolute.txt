@@ -1,0 +1,11 @@
+I:\SAS\Austesten\AminTools\bin\Debug\net10.0\AminTools.deps.json
+I:\SAS\Austesten\AminTools\bin\Debug\net10.0\AminTools.dll
+I:\SAS\Austesten\AminTools\bin\Debug\net10.0\AminTools.pdb
+I:\SAS\Austesten\AminTools\obj\Debug\net10.0\AminTools.GeneratedMSBuildEditorConfig.editorconfig
+I:\SAS\Austesten\AminTools\obj\Debug\net10.0\AminTools.AssemblyInfoInputs.cache
+I:\SAS\Austesten\AminTools\obj\Debug\net10.0\AminTools.AssemblyInfo.cs
+I:\SAS\Austesten\AminTools\obj\Debug\net10.0\AminTools.csproj.CoreCompileInputs.cache
+I:\SAS\Austesten\AminTools\obj\Debug\net10.0\AminTools.dll
+I:\SAS\Austesten\AminTools\obj\Debug\net10.0\refint\AminTools.dll
+I:\SAS\Austesten\AminTools\obj\Debug\net10.0\AminTools.pdb
+I:\SAS\Austesten\AminTools\obj\Debug\net10.0\ref\AminTools.dll
